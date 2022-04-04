@@ -1,0 +1,57 @@
+[{
+    "itemName" : "RTX 3080 Founders Edition 10 GB",
+    "category" : "Graphics Card",
+    "asinUri" : "B08JCRHZGW",
+    "price" : 1585,
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : "EVGA GeForce RTX 3070 XC3 Ultra Gaming",
+    "category" : "Graphics Card",
+    "asinUri" : "B097S5ZY7K",
+    "price" : 1032,
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : "MSI MEG B550 Unify Gaming Motherboard",
+    "category" : "Motherboard",
+    "asinUri" : "B08Q2685ZN",
+    "price" : 260,
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : "AMD Ryzen 5 5600G 6-Core 12-Thread ",
+    "category" : "CPU",
+    "asinUri" : "B092L9GF5N",
+    "price" : 220,
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : "Intel® Core™ i7-11700KF Desktop Processor 8 Cores up to 5.0 GHz ",
+    "category" : "CPU",
+    "asinUri" : "",
+    "price" : 320,
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : " ",
+    "category" : " ",
+    "asinUri" : " ",
+    "price" : " ",
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : " ",
+    "category" : " ",
+    "asinUri" : " ",
+    "price" : " ",
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+},
+{
+    "itemName" : " ",
+    "category" : " ",
+    "asinUri" : " ",
+    "price" : " ",
+    "pictureUri" : "https://res.cloudinary.com/dj2f01kee/image/upload/v1646572728/olympic_flag.jpg"
+}
+]

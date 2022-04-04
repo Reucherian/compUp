@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "comp-up",
+  "version": "1.0.0",
+  "description": "Backend server and Client to access Inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd server;npm start",
+    "client": "cd client;npm start",
+    "start": "./runProject.sh",
+    "build": "./buildProject.sh"
+  },
+  "keywords": [],
+  "author": "Reuben Cherian",
+  "license": "ISC"
+}
